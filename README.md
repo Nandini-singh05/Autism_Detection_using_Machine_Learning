@@ -2,7 +2,7 @@
 
 ---
 <p align="center">
-<img src="boy-playing-with-blocks.jpg" width="500" height="350" />
+<img src="boy-playing-with-blocks.jpg" width="400" height="250" />
 </p>
 
 **This is a binary classification problem related with Autistic Spectrum Disorder (ASD) screening in Adults. Given some attributes of a person, the model can predict whether the person would have a possibility to get ASD using different Supervised Learning Techniques.**
